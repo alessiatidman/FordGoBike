@@ -35,3 +35,10 @@ To complete this project, I used the following:
 In the presentation, I initially look at the distribution of trip duration, age and gender. Here we can see that the majority of trips were around 10 minutes, Men were seen to use the service more and those in their 30s.
 
 I then look at the relationship between duration and age and then gender. Here, I used a violin plots, scatter plots and bar plots.
+
+
+#### Links
+[a link](https://matplotlib.org/tutorials/intermediate/legend_guide.html)
+[a link](https://stackoverflow.com/questions/21291259/convert-floats-to-ints-in-pandas)
+[a link](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html)
+[a link](https://stackoverflow.com/questions/52753613/grouping-categorising-ages-column-in-python-pandas)
