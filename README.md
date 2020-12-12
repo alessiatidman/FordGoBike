@@ -39,6 +39,9 @@ I then look at the relationship between duration and age and then gender. Here, 
 
 #### Links
 (https://matplotlib.org/tutorials/intermediate/legend_guide.html)
+
 (https://stackoverflow.com/questions/21291259/convert-floats-to-ints-in-pandas)
+
 (https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html)
+
 (https://stackoverflow.com/questions/52753613/grouping-categorising-ages-column-in-python-pandas)
