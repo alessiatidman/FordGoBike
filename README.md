@@ -1,6 +1,6 @@
-# data-visualisation
+# Ford Go Bike
 
-For part 5 of Udacity's Data Analyst Nanodegree. I analysed Ford GoBike dataset of San Fransisco area from February 2019 to see how factors may impact trip duration.
+For Part 5 of Udacity's Data Analyst Nanodegree. I analysed Ford GoBike dataset of San Fransisco area from February 2019 to see how factors may impact trip duration.
 
 ## Summary
 
