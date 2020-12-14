@@ -27,7 +27,6 @@ To complete this project, I used the following:
 
 * `exploratory_analysis.ipynb` - this contains all gathering, assessing, cleaning and exploratory analysis.
 * `explanation-slide-deck.ipynb` - the notebook that forms the slide deck.
-* `201902-fordgobike-tripdata.csv` - original dataset
 * `ford_gobike_master.csv` - cleaned dataset. Please note that `age` and `duration_min` varaibles will need to be created.
 
 ## Key Insights
